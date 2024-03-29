@@ -1,0 +1,30 @@
+html {
+    background: black;
+    color: white;
+    font-size: 10px;
+}
+
+.titles {
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+div {
+    width:  50%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+}
+
+p {
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+}
